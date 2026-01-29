@@ -1,0 +1,22 @@
+{
+  "judul": "Distribusi_Paket_12_Kecamatan",
+  "deskripsi": "Data distribusi paket bantuan sosial dari gudang ke 12 kecamatan",
+  "lokasi": [
+    {"x": -8.204144, "y": 111.0954505, "name": "Dinas Sosial"},
+    {"x": -8.0928895, "y": 110.9700318, "name": "Kecamatan Donorojo", "penerima": 12},
+    {"x": -8.1368329, "y": 111.0123057, "name": "Kecamatan Punung", "penerima": 8},
+    {"x": -8.1752339, "y": 111.0404542, "name": "Kecamatan Pringkuku", "penerima": 15},
+    {"x": -8.2014437, "y": 111.0903965, "name": "Kecamatan Pacitan", "penerima": 9},
+    {"x": -8.1212694, "y": 111.1475836, "name": "Kecamatan Arjosari", "penerima": 11},
+    {"x": -7.998089, "y": 111.1844934, "name": "Kecamatan Nawangan", "penerima": 7},
+    {"x": -7.9947284, "y": 111.26152, "name": "Kecamatan Bandar", "penerima": 14},
+    {"x": -8.0648957, "y": 111.2953351, "name": "Kecamatan Tegalombo", "penerima": 10},
+    {"x": -8.1705456, "y": 111.2729289, "name": "Kecamatan Tulakan", "penerima": 6},
+    {"x": -8.2245991, "y": 111.1555555, "name": "Kecamatan Kebonagung", "penerima": 13},
+    {"x": -8.2092395, "y": 111.3235295, "name": "Kecamatan Ngadirojo", "penerima": 8},
+    {"x": -8.2381308, "y": 111.3709328, "name": "Kecamatan Sudimoro", "penerima": 11}
+  ],
+  "kapsitas_truk": 30,
+  "ongkos_per_km": 12000,
+  "fixed_cost_per_truk": 60000
+}

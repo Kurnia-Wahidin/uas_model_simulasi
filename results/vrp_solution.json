@@ -1,0 +1,87 @@
+{
+  "routes": [
+    {
+      "route_id": 1,
+      "kecamatan": [
+        "Kecamatan Donorojo",
+        "Kecamatan Punung",
+        "Kecamatan Pacitan"
+      ],
+      "kecamatan_display": "Kecamatan Donorojo (12) \u2192 Kecamatan Punung (8) \u2192 Kecamatan Pacitan (9)",
+      "penerima": 29,
+      "kapasitas_dipakai": "29/30",
+      "jarak_km": 29.29,
+      "variable_cost": 351480.0,
+      "fixed_cost": 60000,
+      "total_biaya_route": 411480.0
+    },
+    {
+      "route_id": 2,
+      "kecamatan": [
+        "Kecamatan Pringkuku"
+      ],
+      "kecamatan_display": "Kecamatan Pringkuku (15)",
+      "penerima": 15,
+      "kapasitas_dipakai": "15/30",
+      "jarak_km": 12.44,
+      "variable_cost": 149280.0,
+      "fixed_cost": 60000,
+      "total_biaya_route": 209280.0
+    },
+    {
+      "route_id": 3,
+      "kecamatan": [
+        "Kecamatan Arjosari",
+        "Kecamatan Kebonagung"
+      ],
+      "kecamatan_display": "Kecamatan Arjosari (11) \u2192 Kecamatan Kebonagung (13)",
+      "penerima": 24,
+      "kapasitas_dipakai": "24/30",
+      "jarak_km": 17.65,
+      "variable_cost": 211800.0,
+      "fixed_cost": 60000,
+      "total_biaya_route": 271800.0
+    },
+    {
+      "route_id": 4,
+      "kecamatan": [
+        "Kecamatan Nawangan",
+        "Kecamatan Bandar",
+        "Kecamatan Tulakan"
+      ],
+      "kecamatan_display": "Kecamatan Nawangan (7) \u2192 Kecamatan Bandar (14) \u2192 Kecamatan Tulakan (6)",
+      "penerima": 27,
+      "kapasitas_dipakai": "27/30",
+      "jarak_km": 48.45,
+      "variable_cost": 581400.0,
+      "fixed_cost": 60000,
+      "total_biaya_route": 641400.0
+    },
+    {
+      "route_id": 5,
+      "kecamatan": [
+        "Kecamatan Tegalombo",
+        "Kecamatan Ngadirojo",
+        "Kecamatan Sudimoro"
+      ],
+      "kecamatan_display": "Kecamatan Tegalombo (10) \u2192 Kecamatan Ngadirojo (8) \u2192 Kecamatan Sudimoro (11)",
+      "penerima": 29,
+      "kapasitas_dipakai": "29/30",
+      "jarak_km": 65.6,
+      "variable_cost": 787200.0,
+      "fixed_cost": 60000,
+      "total_biaya_route": 847200.0
+    }
+  ],
+  "summary": {
+    "total_routes": 5,
+    "total_paket": 124,
+    "total_jarak_km": 173.43,
+    "total_variable_cost": 2081160.0,
+    "total_fixed_cost": 300000,
+    "total_cost": 2381160.0,
+    "kapasitas_truk": 30,
+    "ongkos_per_km": 12000,
+    "fixed_cost_per_truk": 60000
+  }
+}
